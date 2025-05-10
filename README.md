@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nto Anna
+- 👋 Hi, I’m @Nto Anna Mpahleni
 - 👀 I’m interested in anything Technology
 - 🌱 I’m currently learning ...SQL AND PYTHON
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... mentorship on Data Science
 - 📫 How to reach me ...ntompahleni@gmail.com
 - 😄 Pronouns: ...her,she
 - ⚡ Fun fact: ...im a bubbly soul but also an introvert
